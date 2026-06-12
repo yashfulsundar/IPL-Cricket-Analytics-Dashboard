@@ -68,7 +68,7 @@ Dataset Collection
 
 ### Batting Analysis
 
-<img width="772" height="435" alt="Batting_Analysis" src="https://github.com/user-attachments/assets/8489bc35-3a32-4198-998c-5b697152d975" />
+<img width="1029" height="640" alt="Batting_Analysis" src="https://github.com/user-attachments/assets/c1303cfc-06eb-44b3-ab35-d830e58468f4" />
 
 ### Bowling Analysis
 
